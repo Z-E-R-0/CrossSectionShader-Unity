@@ -1,6 +1,6 @@
 # Cross-Section Shader for Unity
 
-![Cross-Section Shader Example](path/to/your/example/image.png)
+![Cross-Section Shader Example](https://gamesnavneet.s3.eu-north-1.amazonaws.com/Git+Data/CrossShaderGif.gif)
 
 ## Overview
 
