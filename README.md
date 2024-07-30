@@ -24,3 +24,23 @@ The **Cross-Section Shader** for Unity is a versatile tool designed to visualize
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/cross-section-shader.git
+2. Open Test Scene.
+3. Use the shader and materials into your Unity scene.
+
+ ### Usage
+
+1. Create a Material:
+
+2. In Unity, navigate to Assets > Create > Material.
+   Select the Cross-Section Shader from the shader dropdown menu.
+
+3. Apply the Material to the Object that you want to Clip
+
+4. Assign the newly created material to the object(s) you want to clip.
+
+5. Adjust Plane Properties:
+   Use the properties in the Material Inspector to modify the plane's position and normal vector.
+   For dynamic control, use scripting to adjust these properties at runtime.
+  
+
+
