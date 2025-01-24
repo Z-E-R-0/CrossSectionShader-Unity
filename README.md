@@ -23,7 +23,7 @@ The **Cross-Section Shader** for Unity is a versatile tool designed to visualize
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cross-section-shader.git
+   git clone https://github.com/Z-E-R-0/cross-section-shader.git
 2. Open Test Scene.
 3. Use the shader and materials into your Unity scene.
 
